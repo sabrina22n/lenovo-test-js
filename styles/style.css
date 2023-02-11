@@ -1,0 +1,12 @@
+div {
+    display: flex;
+    padding: 2rem;
+}
+
+button {
+    margin-right: 2rem;
+    padding: 20px;
+    border-radius: 8px;
+    color: #FFFF;
+    background-color: #0D5C91;
+}
