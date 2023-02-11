@@ -1,6 +1,7 @@
 const lowerNumber = parseInt(prompt('Enter lower number: '));
 const higherNumber = parseInt(prompt('Enter higher number: '));
 
+alert("Open the console to see it!")
 console.log(`The prime numbers between ${lowerNumber} and ${higherNumber} are:`);
 
 // looping from lowerNumber to higherNumber
